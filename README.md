@@ -9,7 +9,7 @@ Win condition - player defeated all the statues come to life
 
 Friction - enemys of differnt types and limited currency for in game level up
 
-Theme - Museum disorder
+Theme - Museum fight
 
 Team members - Sammie Dawson - Jonas Morse
 
